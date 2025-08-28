@@ -1,0 +1,6 @@
+outs:
+- md5: 2ec8f1089cf87cd13fc5d0ed8fa2d1d5
+  size: 17
+  isexec: true
+  hash: md5
+  path: textdata.txt
